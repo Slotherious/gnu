@@ -1,0 +1,7 @@
+Adventurer, the path grows trickier.
+Not everything is visible at first glance...
+To see hidden files and folders, use (ls -la)
+
+Files that start with a dot (.) are hidden.
+Don’t forget to type the dot when opening hidden files or directories — it’s part of the name!
+Your next flag is inside one of them.
