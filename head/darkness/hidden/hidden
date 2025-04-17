@@ -1,0 +1,11 @@
+Congrats, adventurer! 🏴‍☠️
+You’ve found your first hidden flag — well done!
+
+GUtech{secrets_beneath_the_surface}
+
+But the journey isn’t over yet...
+To uncover the next flag, head back to where your adventure began.
+Use your newly learned skill to list hidden files.
+
+💡 Hint: ls -la reveals what’s usually hidden.
+And don’t forget — filenames that start with a dot (.) are easily overlooked.
